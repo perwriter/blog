@@ -16,7 +16,6 @@ export default function Home() {
         aliquid tempora qui similique, exercitationem distinctio labore culpa
         nam natus consequuntur rem!
       </p>
-    <Upvote/>
     </main>
   );
 }
