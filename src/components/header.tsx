@@ -11,15 +11,15 @@ const navLinks = [
   },
   {
     href: "/posts",
-    label: "Posts",
+    label: "Journey",
   },
   {
     href: "/create-post",
-    label: "Create post",
+    label: "Create",
   },
   {
     href: "/dashboard",
-    label: "Dashboard",
+    label: "Lang",
   },
 ];
 
