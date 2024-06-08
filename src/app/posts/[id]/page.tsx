@@ -13,10 +13,10 @@ export default async function Page({ params }: { params: { id: string } }) {
   }
 
   return (
-    <main className="relative px-7 pt-24 ">
-      <Upvote className=' absolute top-2 right-2 bg-black'/>
+    <main className=" px-7 pt-24 ">
       <h1 className="text-5xl font-semibold mb-7 text-center">{post.title}</h1>
       <p className="max-w-[700px] mx-auto text-start">{post.body}</p>
+      <Upvote />
     </main>
   );
 }
