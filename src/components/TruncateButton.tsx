@@ -1,4 +1,5 @@
-// Add this code to your client-side component, e.g., pages/index.js
+
+"use client"
 import React from 'react';
 
 const TruncateButton = () => {
