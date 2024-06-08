@@ -29,13 +29,7 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center py-4 px-7 border-b">
       <Link href="/">
-        <Image
-          src="https://bytegrad.com/course-assets/youtube/example-logo.png"
-          alt="Logo"
-          className="w-[35px] h-[35px]"
-          width="35"
-          height="35"
-        />
+        <h1 className="font-bold text-2xl md:text-4xl ">P.W...</h1>
       </Link>
 
       <nav>

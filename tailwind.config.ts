@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      animation: {
+        'spin-slow': 'spin 3s linear infinite',
+        'pulse-ring': 'pulse-ring 2s infinite',
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":

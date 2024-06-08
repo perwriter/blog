@@ -8,14 +8,11 @@ export default function Home() {
 
 
       <h1 className="text-4xl md:text-5xl font-bold mb-5">
-        Welcome to my Journey
+        Welcome to My Journey
       </h1>
       <p className="max-w-[750px] mx-auto leading-8">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, a
-        natus? Dolores veritatis perferendis non doloribus numquam praesentium
-        aliquid tempora qui similique, exercitationem distinctio labore culpa
-        nam natus consequuntur rem!
-      </p>
+
+      Welcome to my blog! Join me on my journey from novice to web developer. Join me as I navigate the challenges and triumphs, share lessons learned, and celebrate milestones. Let's embark on this exciting journey together, turning passion into expertise and dreams into reality.    </p>
     </main>
   );
 }
